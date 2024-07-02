@@ -43,3 +43,5 @@ Thumbs.db
 
 
 /sidebar.component.spec.ts
+/navbar.component.spec.ts
+/main-content.component.spec.ts
